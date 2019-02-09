@@ -116,3 +116,11 @@ a:hover {
 	text-align: center;
 	font-size: 14px;
 }
+@media	screen and (min-width: 320px) and (max-width: 480px) {
+
+
+	#menu{
+		display: none;
+	}
+
+}
